@@ -1,0 +1,46 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  RishiKrish DhaneshKumar
+ID:      169075413
+Email:   dhan5413@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:input: Get data from the keyboard, a file, or some other device.output: Display data on the screen or send data to a file or other device.math: Perform basic mathematical operations like addition and multiplication.conditional execution: Check for certain conditions and execute the appropriate code.repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter Your Age: 60
+What is you fav band:The Beatles
+I am 60 years old and The Beatles is my favourite band.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the amount of miles: 35
+Length in km: 56.35
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+number of dosa: 3
+Enter cost: 	1.95
+Total cost of 3 dosas: $  5.85
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter principal: 5000
+Enter the interest: 	5
+Enter the number of years: 	10
+How many times is interest compounded in a year	12
+Balance: $ 8235.0474884514
+-------------------------------------------------------
+
